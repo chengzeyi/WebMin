@@ -1,0 +1,5 @@
+.vscode
+.idea
+cmake-build-*
+cgi-bin
+server-files
